@@ -1,0 +1,109 @@
+$primary: #e8e8d0;
+$highLightColor: #c4e1ff;
+$holidayBaccColor: #fff4c1;
+
+table {
+  width: 100%;
+}
+table,
+tr,
+th,
+td {
+  border-collapse: collapse;
+  border-left: 2px solid $primary;
+  border-right: 2px solid $primary;
+  border-bottom: 2px solid $primary;
+  background-color: white;
+}
+table {
+  border-left: 3px solid $primary;
+  border-right: 3px solid $primary;
+}
+.heard {
+  border: 3px solid $primary;
+  td {
+    border: 3px solid $primary;
+  }
+}
+.textBlue {
+  color: blue;
+}
+.textRed {
+  color: red;
+}
+td {
+  padding: 0.5rem;
+  text-align: center;
+  input {
+    text-align: center;
+    width: 45px;
+    &:focus {
+      background-color: red;
+    }
+  }
+}
+.textLift {
+  text-align: left;
+}
+.textRight {
+  text-align: right;
+}
+.textJustify {
+  text-align: left;
+  justify-content: space-between;
+  button {
+    background-color: white;
+    float: right;
+    border: none;
+  }
+}
+
+.mt-1 {
+  margin-top: 10rem;
+}
+
+body {
+  background-color: $primary;
+}
+.border-collapse {
+  border-collapse: collapse;
+  border-top: 5px solid $primary;
+}
+form input:focus {
+  background-color: white;
+}
+
+.fontNoWidth {
+  font-weight: normal;
+}
+
+.baccBlue {
+  background-color: $highLightColor !important;
+}
+.holidayBaccColor {
+  background-color: $holidayBaccColor;
+}
+.datadisplay {
+  display: none;
+}
+.button {
+  background-color: #ffb5b5;
+  border: 1px solid #acd6ff;
+  line-height: 1.5rem;
+  margin: 0.25rem;
+  &:hover {
+    cursor: pointer;
+  }
+  &:active {
+    background-color: #acd6ff;
+  }
+}
+.select {
+  line-height: 1.5rem;
+  margin: 0.25rem;
+  transition: 0.7s all;
+  &:hover {
+    cursor: pointer;
+    background-color: $primary;
+  }
+}

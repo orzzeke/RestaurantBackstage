@@ -1,0 +1,1020 @@
+{
+  "list": [
+    {
+      "roomtypeunkid": "1026900000000000003",
+      "roomtype": "Deluxe Standard Twin",
+      "ratedata": [
+        {
+          "display_name": "Deluxe Standard Twin-Agoda",
+          "roomrateunkid": "1026900000000000007",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Deluxe Standard Twin-Agoda Discount",
+          "roomrateunkid": "1026900000000000013",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Deluxe Standard Twin-Booking.com",
+          "roomrateunkid": "1026900000000000010",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Standard Room",
+          "roomrateunkid": "1026900000000000003",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            },
+            {
+              "channelname": "Expedia",
+              "channelunkid": "1",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Standard Room - Breakfast",
+          "roomrateunkid": "1026900000000000004",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    {
+      "roomtypeunkid": "1026900000000000004",
+      "roomtype": "Luxury Room",
+      "ratedata": [
+        {
+          "display_name": "Luxury Room - Breakfast",
+          "roomrateunkid": "1026900000000000017",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "1/0",
+          "rackrate": "600.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "3",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#1000000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Luxury Room - Breakfast & Dinner",
+          "roomrateunkid": "1026900000000000016",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "1/0",
+          "rackrate": "650.0000",
+          "extraadultrate": "200.0000",
+          "extrachildrate": "100.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#1000000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    {
+      "roomtypeunkid": "1026900000000000001",
+      "roomtype": "Superior Family",
+      "ratedata": [
+        {
+          "display_name": "Family Room",
+          "roomrateunkid": "1026900000000000001",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            },
+            {
+              "channelname": "BookingEye",
+              "channelunkid": "156",
+              "operation": "1,2,5"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Family Room - Breakfast",
+          "roomrateunkid": "1026900000000000006",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Family-Agoda",
+          "roomrateunkid": "1026900000000000009",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Family-Agoda Discount",
+          "roomrateunkid": "1026900000000000015",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Family-Booking.com",
+          "roomrateunkid": "1026900000000000012",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    {
+      "roomtypeunkid": "1026900000000000002",
+      "roomtype": "Superior Queen",
+      "ratedata": [
+        {
+          "display_name": "Superior Queen-Agoda",
+          "roomrateunkid": "1026900000000000008",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Queen-Agoda Discount",
+          "roomrateunkid": "1026900000000000014",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Queen-Booking.com",
+          "roomrateunkid": "1026900000000000011",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Twin Room",
+          "roomrateunkid": "1026900000000000002",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Twin Room - Breakfast",
+          "roomrateunkid": "1026900000000000005",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    {
+      "roomtypeunkid": "1026900000000000007",
+      "roomtype": "test",
+      "ratedata": [
+        {
+          "display_name": "testtest",
+          "roomrateunkid": "1026900000000000019",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            },
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "1/0",
+          "rackrate": "6000.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1000.0000#9999.0000#S",
+          "derivedlinkoperation": ""
+        }
+      ]
+    }
+  ],
+  "listtmp": [],
+  "BUlist": {
+    "1026900000000000003": {
+      "roomtypeunkid": "1026900000000000003",
+      "roomtype": "Deluxe Standard Twin",
+      "ratedata": [
+        {
+          "display_name": "Deluxe Standard Twin-Agoda",
+          "roomrateunkid": "1026900000000000007",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Deluxe Standard Twin-Agoda Discount",
+          "roomrateunkid": "1026900000000000013",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Deluxe Standard Twin-Booking.com",
+          "roomrateunkid": "1026900000000000010",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Standard Room",
+          "roomrateunkid": "1026900000000000003",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            },
+            {
+              "channelname": "Expedia",
+              "channelunkid": "1",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Standard Room - Breakfast",
+          "roomrateunkid": "1026900000000000004",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "130.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "1",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    "1026900000000000004": {
+      "roomtypeunkid": "1026900000000000004",
+      "roomtype": "Luxury Room",
+      "ratedata": [
+        {
+          "display_name": "Luxury Room - Breakfast",
+          "roomrateunkid": "1026900000000000017",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "1/0",
+          "rackrate": "600.0000",
+          "extraadultrate": "100.0000",
+          "extrachildrate": "50.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "3",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#1000000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Luxury Room - Breakfast & Dinner",
+          "roomrateunkid": "1026900000000000016",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "1/0",
+          "rackrate": "650.0000",
+          "extraadultrate": "200.0000",
+          "extrachildrate": "100.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#1000000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    "1026900000000000001": {
+      "roomtypeunkid": "1026900000000000001",
+      "roomtype": "Superior Family",
+      "ratedata": [
+        {
+          "display_name": "Family Room",
+          "roomrateunkid": "1026900000000000001",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            },
+            {
+              "channelname": "BookingEye",
+              "channelunkid": "156",
+              "operation": "1,2,5"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Family Room - Breakfast",
+          "roomrateunkid": "1026900000000000006",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Family-Agoda",
+          "roomrateunkid": "1026900000000000009",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Family-Agoda Discount",
+          "roomrateunkid": "1026900000000000015",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Family-Booking.com",
+          "roomrateunkid": "1026900000000000012",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "200.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "4",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    "1026900000000000002": {
+      "roomtypeunkid": "1026900000000000002",
+      "roomtype": "Superior Queen",
+      "ratedata": [
+        {
+          "display_name": "Superior Queen-Agoda",
+          "roomrateunkid": "1026900000000000008",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Queen-Agoda Discount",
+          "roomrateunkid": "1026900000000000014",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Superior Queen-Booking.com",
+          "roomrateunkid": "1026900000000000011",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Twin Room",
+          "roomrateunkid": "1026900000000000002",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        },
+        {
+          "display_name": "Twin Room - Breakfast",
+          "roomrateunkid": "1026900000000000005",
+          "channelnames": [
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "2/0",
+          "rackrate": "120.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "0",
+          "rateThreshold": "1.0000#100000000000.0000#N",
+          "derivedlinkoperation": ""
+        }
+      ]
+    },
+    "1026900000000000007": {
+      "roomtypeunkid": "1026900000000000007",
+      "roomtype": "test",
+      "ratedata": [
+        {
+          "display_name": "testtest",
+          "roomrateunkid": "1026900000000000019",
+          "channelnames": [
+            {
+              "channelname": "Agoda",
+              "channelunkid": "36",
+              "operation": "1,2,3,5,6,7"
+            },
+            {
+              "channelname": "Booking.com",
+              "channelunkid": "5",
+              "operation": "1,2,3,5,6,7,9"
+            }
+          ],
+          "baseadultchild": "1/0",
+          "rackrate": "6000.0000",
+          "extraadultrate": "0.0000",
+          "extrachildrate": "0.0000",
+          "derivedfromrtplan": "",
+          "derivedfrom": null,
+          "rates": null,
+          "extraadult": null,
+          "extrachild": null,
+          "maxadult": "2",
+          "maxchild": "0",
+          "ismaster": "1",
+          "rateThreshold": "1000.0000#9999.0000#S",
+          "derivedlinkoperation": ""
+        }
+      ]
+    }
+  },
+  "rmlist": [
+    {
+      "key": "1026900000000000003",
+      "value": "Deluxe Standard Twin"
+    },
+    {
+      "key": "1026900000000000004",
+      "value": "Luxury Room"
+    },
+    {
+      "key": "1026900000000000001",
+      "value": "Superior Family"
+    },
+    {
+      "key": "1026900000000000002",
+      "value": "Superior Queen"
+    },
+    {
+      "key": "1026900000000000007",
+      "value": "test"
+    }
+  ],
+  "RoundOffType": ""
+}

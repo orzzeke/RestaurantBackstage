@@ -1,0 +1,20 @@
+input:focus {
+  background-color: red;
+}
+table,
+th,
+td,
+tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+tbody :first-child :hover {
+  background-color: antiquewhite;
+}
+
+td {
+  padding: 20px;
+}
+input {
+  width: 2.7vw;
+}
